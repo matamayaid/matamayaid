@@ -1,6 +1,6 @@
 # Hi there, welcome to Matamaya! 👋
 
-![Matamaya Banner](https://matamaya.id/)
+![Matamaya Banner](https://matamaya.id/assets/img/logo-warna.png)
 
 ## About Us
 
